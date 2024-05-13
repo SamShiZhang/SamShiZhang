@@ -37,6 +37,21 @@
     <a href="https://github.com/SamShiZhang"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="https://github.com/SamShiZhang"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>
-![SamShiZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamShiZhang&show_icons=true&theme=dracula)
+### <h4>💻 Software and tools</h4>
+
+<p>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+</p>
+
+
+
+
+[![SamShiZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamShiZhang&show_icons=true&theme=dracula)](https://github.com/SamShiZhang)
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamShiZhang&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamShiZhang&theme=dracula)](https://github.com/SamShiZhang)
+<br>
+[![SamShiZhang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamShiZhang&bg_color=000000&color=ff9500&line=33a7ff&point=403d3d&area=true&hide_border=true)](https://github.com/SamShiZhang)
