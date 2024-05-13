@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###Hi there 👋, I'm LeiZhang 😁.
+###
 🔭 I’m currently working on a project in the field of Natural Language Processing (NLP), focusing on sentiment analysis.
 ###
-![SamShiZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamShiZhang&show_icons=true)
+![SamShiZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamShiZhang&show_icons=true&theme=dracula)
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamShiZhang)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamShiZhang&theme=dracula)
