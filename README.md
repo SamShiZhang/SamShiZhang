@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###Hi there 👋, I'm LeiZhang 😁.
+Hi there 👋, I'm LeiZhang 😁.
 ###
 🔭 I’m currently working on a project in the field of Natural Language Processing (NLP), focusing on sentiment analysis.
 ###
